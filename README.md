@@ -131,3 +131,23 @@ This ER model captures the main entities, their attributes, and the relationship
 
 
 ![](https://github.com/WSI-PJATK/Task.ERD.1/blob/main/CarRental-2024-05-02_21-46.png?raw=true)
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
+
+
+
+
+
+![](https://techdiagrammer.com/wp-content/img/erd-diagram-symbols-9523.jpg)

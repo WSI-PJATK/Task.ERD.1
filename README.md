@@ -28,6 +28,8 @@ Upload your solution (exported from vertabelo in png or svg format) as an attach
 
 ## Solution
 
+[Vertabelo Solution](https://my.vertabelo.com/public-model-view/Y1x5Tznlk9vwQXXdyg4yArMMhIacM5rQfOQtAYE8ibqbz0rfZtr9QDxIx7O2thuQ?x=3149&y=3580&zoom=0.5492)
+
 Based on the given requirements, here's an entity-relationship (ER) model for the car rental system:
 
 Entities:
@@ -122,6 +124,7 @@ ER Diagram:
 | EngineCapacity|
 +---------------+
 ```
+
 
 
 This ER model captures the main entities, their attributes, and the relationships between them based on the provided requirements. The model ensures that a client can rent multiple cars, but only one at a time, and rental prices are calculated individually based on the client's discount.

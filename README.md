@@ -1,7 +1,7 @@
-# Task.ERD.1
+# WSI Task.ERD.1
 Entity Relationship Diagram (Vertabelo)
 
-## TASK
+## Task
 
 Create an entity relationship diagram for requirements below. Diagram should be created using vertabelo (https://vertabelo.com/) .
 

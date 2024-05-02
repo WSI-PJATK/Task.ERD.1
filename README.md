@@ -86,23 +86,23 @@ ER Diagram:
 |    Client     |         |    Address    |
 +---------------+         +---------------+
 | ClientID (PK) |         | AddressID (PK)|
-| FirstName     |         | StreetName    |
+| FirstName     |---------| StreetName    |
 | Surname       |         | StreetNumber  |
 | PhoneNumber   |         | ApartmentNumber|
 | DateOfBirth   |         | City          |
 | DriverLicenseNumber |   | ClientID (FK) |
 | IDCardSerialNumber  |   +---------------+
-| PassportNumber|           |
-| Discount      |           |
-+---------------+           |
-      |                     |
-      |                     |
-      |                     |
-+---------------+           |
-|     Rent      |           |
-+---------------+           |
-| RentID (PK)   |           |
-| ClientID (FK) |-----------+
+| PassportNumber|           
+| Discount      |           
++---------------+           
+      |                     
+      |                     
+      |                     
++---------------+           
+|     Rent      |           
++---------------+           
+| RentID (PK)   |           
+| ClientID (FK) |
 | CarID (FK)    |
 | StartDate     |
 | EndDate       |

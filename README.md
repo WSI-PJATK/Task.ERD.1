@@ -130,4 +130,4 @@ ER Diagram:
 This ER model captures the main entities, their attributes, and the relationships between them based on the provided requirements. The model ensures that a client can rent multiple cars, but only one at a time, and rental prices are calculated individually based on the client's discount.
 
 
-![](https://github.com/WSI-PJATK/Task.ERD.1/blob/main/CarRental-2024-05-02_21-42.png?raw=true)
+![](https://github.com/WSI-PJATK/Task.ERD.1/blob/main/CarRental-2024-05-02_21-46.png?raw=true)

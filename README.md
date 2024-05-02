@@ -150,4 +150,4 @@ This ER model captures the main entities, their attributes, and the relationship
 
 
 
-![https://techdiagrammer.com/wp-content/img/erd-diagram-symbols-9523.jpg](https://techdiagrammer.com/wp-content/img/erd-diagram-symbols-9523.jpg)
+![](https://techdiagrammer.com/wp-content/img/erd-diagram-symbols-9523.jpg)

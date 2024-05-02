@@ -36,10 +36,11 @@ Entities:
 3. Car
 4. Rent
 
-Relationships:
-1. Client has Address (one-to-one)
-2. Client can rent Car (many-to-many)
-3. Rent connects Client and Car (many-to-one)
+Relationships
+- A Client can have one Address (one-to-one relationship)
+- A Client can rent multiple Cars, but only one at a time (one-to-many relationship)
+- A Car can be rented by multiple Clients over time (many-to-one relationship)
+- A Rent connects a Client with a Car for a specific date range and stores additional information about the rental (many-to-many relationship with additional attributes)
 
 Attributes:
 1. Client:
@@ -121,5 +122,6 @@ ER Diagram:
 | EngineCapacity|
 +---------------+
 ```
+
 
 This ER model captures the main entities, their attributes, and the relationships between them based on the provided requirements. The model ensures that a client can rent multiple cars, but only one at a time, and rental prices are calculated individually based on the client's discount.

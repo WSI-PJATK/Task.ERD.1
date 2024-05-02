@@ -34,13 +34,13 @@ Entities:
 1. Client
 2. Address
 3. Car
-4. Rent
+4. Rental
 
 Relationships
 - A Client can have one Address (one-to-one relationship)
 - A Client can rent multiple Cars, but only one at a time (one-to-many relationship)
-- A Car can be rented by multiple Clients over time (many-to-one relationship)
-- A Rent connects a Client with a Car for a specific date range and stores additional information about the rental (many-to-many relationship with additional attributes)
+- A Car can be rented by multiple Clients over time but one Client at the time (one-to-one relationship)
+- A Rental connects a Client with a Car for a specific date range and stores additional information about the rental (one-to-one relationship with additional attributes)
 
 Attributes:
 1. Client:

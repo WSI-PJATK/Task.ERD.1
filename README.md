@@ -1,4 +1,4 @@
-# WSI Task.ERD.1
+# WSI Task.ERD.1 Car Rental
 Entity Relationship Diagram (Vertabelo)
 
 Go to [Task.ERD.2](https://github.com/WSI-PJATK/Task.ERD.2)

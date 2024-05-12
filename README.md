@@ -30,7 +30,7 @@ Upload your solution (exported from vertabelo in png or svg format) as an attach
 
 ## Solution
 
-[Vertabelo Solution](https://my.vertabelo.com/public-model-view/Y1x5Tznlk9vwQXXdyg4yArMMhIacM5rQfOQtAYE8ibqbz0rfZtr9QDxIx7O2thuQ?x=3149&y=3580&zoom=0.5492)
+[Vertabelo Solution](https://my.vertabelo.com/public-model-view/7j8b5w1zX1WSRP2Mgt1JQUB1QmtnVhQCQ2vm2BfrdrqK3zqj1Sa4I5Pwmzdscjdz?x=2905&y=2993&zoom=0.4409)
 
 Based on the given requirements, here's an entity-relationship (ER) model for the car rental system:
 

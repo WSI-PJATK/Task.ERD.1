@@ -133,7 +133,7 @@ This ER model captures the main entities, their attributes, and the relationship
 
 Final version
 
-![](https://github.com/WSI-PJATK/Task.ERD.1/blob/main/CarRental_Logical_Model_Physical_-2024-05-12_12-50.png?raw=true]
+![](https://github.com/WSI-PJATK/Task.ERD.1/blob/main/CarRental_Logical_Model_Physical_-2024-05-12_12-50.png?raw=true)
 
 First iteration
 
